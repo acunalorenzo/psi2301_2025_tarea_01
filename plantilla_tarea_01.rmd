@@ -1,6 +1,6 @@
 ---
 title: "Tarea 1"
-author: "[indicar correo aqui]"
+author: "[acunalorenzo@estudainte.uc.cl]"
 output:
   html_document
 ---
